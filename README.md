@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ld12086
 - 👀 I’m interested in predictive modeling and exploring complex data sets
-- 🌱 I’m currently learning R and Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning R
+- 💞️ I’m looking to collaborate on machine learning and regression modeling
 - 📫 How to reach me: logandelgado97@gmail.com
 
 <!---
